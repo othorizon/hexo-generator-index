@@ -15,7 +15,10 @@
   "engines": {
     "node": ">= 0.10.0"
   },
-  "repository": "othorizon/hexo-generator-index-sticky",
+  "repository":{
+    "type": "git",
+    "url": "git+git@github.com:othorizon/hexo-generator-index-sticky.git"
+  },
   "homepage": "http://hexo.io/",
   "keywords": [
     "hexo",
