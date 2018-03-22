@@ -27,7 +27,7 @@
     "sticky",
     "home"
   ],
-  "author": "rizon (http://rizon.top)",
+  "author": "rizon",
   "license": "MIT",
   "devDependencies": {
     "chai": "^3.4.0",
