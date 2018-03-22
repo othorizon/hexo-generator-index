@@ -1,4 +1,11 @@
-# hexo-generator-index
+# hexo-generator-index-sticky
+
+## 增加置顶功能
+
+参考:
+[解决Hexo博客文章置顶问题](https://www.jianshu.com/p/42a4efcdf8d7)
+[打造个性超赞博客Hexo+NexT+GithubPages的超深度优化](https://reuixiy.github.io/technology/computer/computer-aided-art/2017/06/09/hexo-next-optimization.html#%E6%96%87%E7%AB%A0%E7%BD%AE%E9%A1%B6)
+---
 
 [![Build Status](https://travis-ci.org/hexojs/hexo-generator-index.svg?branch=master)](https://travis-ci.org/hexojs/hexo-generator-index)  [![NPM version](https://badge.fury.io/js/hexo-generator-index.svg)](http://badge.fury.io/js/hexo-generator-index) [![Coverage Status](https://img.shields.io/coveralls/hexojs/hexo-generator-index.svg)](https://coveralls.io/r/hexojs/hexo-generator-index?branch=master)
 
