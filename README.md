@@ -2,8 +2,17 @@
 
 ## 增加置顶功能
 
-参考了文章[解决Hexo博客文章置顶问题](https://www.jianshu.com/p/42a4efcdf8d7)[打造个性超赞博客Hexo+NexT+GithubPages的超深度优化](https://reuixiy.github.io/technology/computer/computer-aided-art/2017/06/09/hexo-next-optimization.html#%E6%96%87%E7%AB%A0%E7%BD%AE%E9%A1%B6),
-但是里面的改法去掉了hexo-generator-index的原有的orderby功能，因此自己重新改了一版，使之不会影响原有的功能，在原有的sort排序之后再按照sticky字段做一次sort。
+USAGE
+
+在文章的开头设置中增加一个`sticky`参数用来置顶，数字越大越高
+
+```markdown
+---
+title: example
+sticky: 100
+---
+```
+
 采用sticky关键词是因为这个在next主题中已经定义了置顶样式，因此可以直接拿来使用
 
 ---
