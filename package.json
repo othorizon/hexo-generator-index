@@ -1,6 +1,6 @@
 {
   "name": "hexo-generator-index-sticky",
-  "version": "0.2.3",
+  "version": "0.3.0",
   "description": "Index generator for Hexo.add pin function, fork from hexo-generator-index",
   "main": "index",
   "scripts": {
